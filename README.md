@@ -1,11 +1,11 @@
 # FurBLE - Furby Web Bluetooth Demo
 Use Web Bluetooth to control your Furby Connect! Works best for Chrome on Android. No support for ios/ipadOS
 
-## To test this out, [click here](https://bunsoootchi.github.io/furble/index.html)
+## To test this out, [click here](https://pagonis76.github.io/furble/index.html)
 ## You can also input pre-programmed [list of actions here](https://github.com/Jeija/bluefluff/blob/master/doc/actionlist.md)
 
 # IMPORTANT!
-Reset the Furby Connect every time you want to upload a new DLC. This is to avoid bricking.
+Reset the Furby Connect every time you want to upload a new DLC. This is to avoid bricking, however if you'd want a corrupted DLC.. for some reason, then upload two if you REALLY wannt to, just... be warned, alright?
 ## To reset the Furby Connect:
 - Make sure the Furby is awake, and turn it upside down
 - Push its tongue and pull its tail for 10 seconds.
