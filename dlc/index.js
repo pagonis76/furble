@@ -215,7 +215,7 @@
          ]
     },
     {
-        "file": "noimg2.dlc.dlc", 
+        "file": "tu003410_testpal.dlc", 
         "title": "audio",
         "buttons": [
             { "title": "test audio idk what this does yet ", "action": [75,0,4,4] }
