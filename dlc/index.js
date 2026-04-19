@@ -215,10 +215,10 @@
          ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "noimg2.dlc.dlc", 
+        "title": "audio",
         "buttons": [
-            { "title": "Just Chilli Eyes ", "action": [75,0,4,4] }
+            { "title": "test audio idk what this does yet ", "action": [75,0,4,4] }
         ]
     },
     
@@ -238,10 +238,10 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "chili.dlc", 
+        "title": "chili",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "chill ", "action": [75,0,4,4] }
         ]
     }
 ]
