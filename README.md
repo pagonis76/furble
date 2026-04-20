@@ -11,7 +11,7 @@ Reset the Furby Connect every time you want to upload a new DLC. This is to avoi
 - Push its tongue and pull its tail for 10 seconds.
 - The furby's eyes will turn off. If it doesn't repeat step 1. When it does turn off, you can wake it up again.
 
-<img src="images/furby1.jpg" width="500">
+<img src="images/furbyFURBLE.gif" width="500">
 
 ### Working:
 - Connect to / disconnect from Furby
