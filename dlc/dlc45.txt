@@ -11,7 +11,7 @@
             "dlcToyFiles": [
                 {
                     "checksum": "0x92B31205",
-                    "fileName": "tu022010.dlc",
+                    "fileName": "Believer.dlc",
                     "fileSize": 448652,
                     "language": 0
                 },
