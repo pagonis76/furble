@@ -175,7 +175,7 @@
     },    
     {
         "file": "Believer.dlc", 
-        "title": "Believer",
+        "title": "Songs Pack 7",
         "buttons": [
             { "title": "newvideo! ", "action": [75,0,0,0] },
             { "title": "newsong! ", "action": [75,0,1,0] },
@@ -231,17 +231,17 @@
     },
     { 
         "file": "hacked.dlc", 
-        "title": "Daleks Invasion",
+        "title": "HACKED",
         "buttons": [
             { "title": "Exterminate", "action": [75,0,3,4] },
             { "title": "Kill all Humans", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "chili.dlc", 
-        "title": "chili",
+        "file": "chilli.dlc", 
+        "title": "chilli",
         "buttons": [
-            { "title": "chill ", "action": [75,0,4,4] }
+            { "title": "just chilli eyes ", "action": [75,0,4,4] }
         ]
     }
 ]
