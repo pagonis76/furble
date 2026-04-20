@@ -174,7 +174,7 @@
         ]
     },    
     {
-        "file": "Believer.dlc", 
+        "file": "tu022010", 
         "title": "Songs Pack 7",
         "buttons": [
             { "title": "newvideo! ", "action": [75,0,0,0] },
