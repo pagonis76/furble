@@ -211,7 +211,7 @@
         "file": "SciFix.dlc", 
         "title": "Science!",
         "buttons": [
-            { "title": "FUCK MY HOUSE!", "action": [75,0,0,2] }
+            { "title": "F*** MY HOUSE!", "action": [75,0,0,2] }
          ]
     },
     {
