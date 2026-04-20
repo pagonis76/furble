@@ -476,7 +476,7 @@ function uploadDLC(dlcbuf, filename, progresscb) {
 
 function onDisconnected() {
     log('> Bluetooth Device disconnected');
-    msg.error('Device Disconnected');
+    msg.error('huh? oh.. device disconnected!');
     clearInterval(keepAliveTimer);
     isConnected = false;
     document.getElementById('connbtn').textContent = 'Connect';
@@ -624,7 +624,7 @@ async function doConnect() {
         log('Connecting to GATT Server...');
         server = await device.gatt.connect();
     } catch (e) {
-        msg.error('Failed to connect');
+        msg.error('oops... Failed to connect!');
         log(e.message);
         return;
     }
@@ -654,7 +654,7 @@ async function doConnect() {
         furby_chars.NordicListen.addEventListener('characteristicvaluechanged', handleNordicNotification);
         await furby_chars.NordicListen.startNotifications();
     } catch (e) {
-        msg.error('Failed initialise BLE services');
+        msg.error('oops... Failed initialise BLE services!');
         log(e.message);
         return;
     }
