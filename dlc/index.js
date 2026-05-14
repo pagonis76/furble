@@ -238,10 +238,10 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "chilli",
+        "file": "tr002590.dlc", 
+        "title": "corrupted dlc",
         "buttons": [
-            { "title": "just chilli eyes ", "action": [75,0,4,4] }
+            { "title": "your furby is temporarily corrupted now, atleast, it can sometimes be ", "action": [75,0,0,0] }
         ]
     }
 ]
