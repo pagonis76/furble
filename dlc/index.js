@@ -215,10 +215,10 @@
          ]
     },
     {
-        "file": "tu003410_testpal.dlc", 
-        "title": "audio",
+        "file": "TU010950.dlc", 
+        "title": "VZ dlc",
         "buttons": [
-            { "title": "test audio idk what this does yet ", "action": [75,0,4,4] }
+            { "title": "idk :P ", "action": [75,0,4,3] }
         ]
     },
     
