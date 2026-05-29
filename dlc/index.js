@@ -215,10 +215,10 @@
          ]
     },
     {
-        "file": "TU010950.dlc", 
-        "title": "VZ dlc",
+        "file": "PiratePersonalityTest.dlc", 
+        "title": "personality test",
         "buttons": [
-            { "title": "idk :P ", "action": [75,0,4,3] }
+            { "title": "idk... ", "action": [75,0,0,0] }
         ]
     },
     
