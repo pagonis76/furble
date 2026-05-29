@@ -239,9 +239,9 @@
     },
     {
         "file": "tr002590.dlc", 
-        "title": "corrupted dlc",
+        "title": "russian only dlc",
         "buttons": [
-            { "title": "your furby is temporarily corrupted now, atleast, it can sometimes be ", "action": [75,0,0,0] }
+            { "title": "this is a russian only dlc ", "action": [74,0,0,1] }
         ]
     }
 ]
