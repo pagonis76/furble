@@ -215,10 +215,10 @@
          ]
     },
     {
-        "file": "PiratePersonalityTest.dlc", 
+        "file": "test.dlc", 
         "title": "personality test",
         "buttons": [
-            { "title": "idk... ", "action": [75,0,0,0] }
+            { "title": "idk...", "action": [75,0,0,0] }
         ]
     },
     
