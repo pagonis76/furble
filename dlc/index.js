@@ -175,7 +175,7 @@
     },    
     {
         "file": "Believer.dlc", 
-        "title": "Songs Pack 7",
+        "title": "Songs Pack 8",
         "buttons": [
             { "title": "newvideo! ", "action": [75,0,0,0] },
             { "title": "newsong! ", "action": [75,0,1,0] },
@@ -215,10 +215,10 @@
          ]
     },
     {
-        "file": "test.dlc", 
-        "title": "personality test",
+        "file": "tu011010.dlc", 
+        "title": "Song Pack 7",
         "buttons": [
-            { "title": "idk...", "action": [75,0,0,0] }
+            { "title": "idk yet!!", "action": [75,0,0,0] }
         ]
     },
     
