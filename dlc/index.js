@@ -257,14 +257,14 @@
             { "title": "SBC6", "action": [75,0,3,5] },
             { "title": "SBC7", "action": [75,0,3,6] },
             { "title": "SBC8", "action": [75,0,3,7] },
-            { "title": "PRA", "action": [75,0,3,0] },
-            { "title": "PRA2", "action": [75,0,3,1] },
-            { "title": "PRA3", "action": [75,0,3,2] },
-            { "title": "PRA4", "action": [75,0,3,3] },
-            { "title": "PRA5", "action": [75,0,3,4] },
-            { "title": "PRA6", "action": [75,0,3,5] },
-            { "title": "PRA7", "action": [75,0,3,6] },
-            { "title": "PRA8", "action": [75,0,3,7] }
+            { "title": "PRA", "action": [75,0,4,0] },
+            { "title": "PRA2", "action": [75,0,4,1] },
+            { "title": "PRA3", "action": [75,0,4,2] },
+            { "title": "PRA4", "action": [75,0,4,3] },
+            { "title": "PRA5", "action": [75,0,4,4] },
+            { "title": "PRA6", "action": [75,0,4,5] },
+            { "title": "PRA7", "action": [75,0,4,6] },
+            { "title": "PRA8", "action": [75,0,4,7] }
         ]
     },
     
