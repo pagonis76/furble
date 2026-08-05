@@ -204,14 +204,16 @@
         "file": "tu003150.dlc", 
         "title": "Commercial DLC",
         "buttons": [
-            { "title": "chili animation", "action": [15,0,0,10] },
+            { "title": "Chili too hot", "action": [15,0,0,10] },
             { "title": "sleep", "action": [12,0,0,10] },
             { "title": "cheerleader", "action": [75,0,1,2] },
             { "title": "one call away", "action": [75,0,4,4] },
-            { "title": "DG1", "action": [17,0,0,6] },
+            { "title": "Chili ah yeah", "action": [17,0,0,6] },
+            { "title": "something spicy", "action": [9,0,0,7] },
             { "title": "DG2", "action": [17,0,0,7] },
             { "title": "DG3", "action": [17,0,0,8] },
-            { "title": "Chili spit out", "action": [7,0,0,8] }
+            { "title": "Chili spit out", "action": [7,0,0,8] },
+            { "title": "hotrod", "action": [9,0,0,9] }
         ]
     },
     { 
