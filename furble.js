@@ -693,29 +693,29 @@ async function doConnect() {
     await setAntennaColor(0,0,0);
     await sleep(600);
     await setAntennaColor(0,5,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,15,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,25,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,35,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,55,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,80,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,100,0);
     await sleep(900);
     await setAntennaColor(0,80,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,50,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,30,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,10,0);
-    await sleep(200);
+    await sleep(100);
     await setAntennaColor(0,0,0);
-    await sleep(200);
+    await sleep(100);
 
 
 }
