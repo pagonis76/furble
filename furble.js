@@ -666,12 +666,26 @@ async function doConnect() {
     addGPListenCallback([0x21], onFurbySensorData);
     await checkActiveSlot();
 
-    await setAntennaColor(255,0,0);
+    await setAntennaColor(255,255,255);
     await sleep(600);
-    await setAntennaColor(0,255,0);
+    await setAntennaColor(0,0,0);
     await sleep(600);
-    await setAntennaColor(0,0,255);
+    await setAntennaColor(255,255,255);
     await sleep(600);
+    await setAntennaColor(0,0,0);
+    await sleep(600);
+    await setAntennaColor(255,255,255);
+    await sleep(200);
+    await setAntennaColor(200,200,200);
+    await sleep(200);
+    await setAntennaColor(155,155,155);
+    await sleep(200);
+    await setAntennaColor(100,100,100);
+    await sleep(200);
+    await setAntennaColor(55,55,55);
+    await sleep(200);
+    await setAntennaColor(0,0,0);
+    await sleep(200);
 
 
 }
