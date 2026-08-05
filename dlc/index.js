@@ -287,7 +287,14 @@
         "file": "tr002590.dlc", 
         "title": "russian only dlc",
         "buttons": [
-            { "title": "this is a russian only dlc ", "action": [74,0,0,1] }
+            { "title": "kill your english furby! ", "action": [74,0,0,1] }
+        ]
+    },
+    {
+        "file": "PiratePersonalityTest.dlc", 
+        "title": "Personality Test",
+        "buttons": [
+            { "title": "testing only ", "action": [75,0,0,0] }
         ]
     }
 ]
