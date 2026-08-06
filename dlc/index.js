@@ -298,12 +298,5 @@
         "buttons": [
             { "title": "testing only ", "action": [75,0,0,0] }
         ]
-    },
-    {
-        "file": "tu022140.dlc", 
-        "title": "Mod test",
-        "buttons": [
-            { "title": "testing a mod ", "action": [75,0,0,3] }
-        ]
     }
 ]
