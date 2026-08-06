@@ -298,5 +298,12 @@
         "buttons": [
             { "title": "testing only ", "action": [75,0,0,0] }
         ]
+    },
+    {
+        "file": "tu000000.dlc", 
+        "title": "personalized",
+        "buttons": [
+            { "title": "test ", "action": [14,0,0,9] }
+        ]
     }
 ]
