@@ -269,7 +269,13 @@
             { "title": "PRA8", "action": [75,0,4,7] }
         ]
     },
-    
+    {
+        "file": "tu013410.dlc", 
+        "title": "Songs Pack 9",
+        "buttons": [
+            { "title": "idk yet ", "action": [14,0,0,9] }
+        ]
+    },
     { 
         "file": "context.dlc", 
         "title": "Context Logo",
