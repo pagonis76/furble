@@ -299,7 +299,7 @@
         ]
     },
     {
-        "file": "PiratePersonalityTest.dlc", 
+        "file": "PERSONAL04.dlc", 
         "title": "Personality Test",
         "buttons": [
             { "title": "testing only ", "action": [75,0,0,0] }
