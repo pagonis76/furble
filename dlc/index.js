@@ -318,5 +318,12 @@
         "buttons": [
             { "title": "test ", "action": [75,0,0,0] }
         ]
+    },
+    {
+        "file": "poperic.dlc", 
+        "title": "popstar and generic",
+        "buttons": [
+            { "title": "test ", "action": [75,0,0,0] }
+        ]
     }
 ]
