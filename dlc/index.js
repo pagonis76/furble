@@ -299,8 +299,8 @@
         ]
     },
     {
-        "file": "custom.dlc", 
-        "title": "Ninja personality test",
+        "file": "popstarG.dlc", 
+        "title": "POPSTAR DEV TEST ONLY",
         "buttons": [
             { "title": "testing only ", "action": [29,0,0,0] }
         ]
