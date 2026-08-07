@@ -299,10 +299,10 @@
         ]
     },
     {
-        "file": "custom1.dlc", 
+        "file": "popmod.dlc", 
         "title": "firstmod",
         "buttons": [
-            { "title": "dunno yet ", "action": [75,0,0,0] }
+            { "title": "test ", "action": [75,0,4,4] }
         ]
     },
     {
