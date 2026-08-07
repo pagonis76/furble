@@ -299,8 +299,8 @@
         ]
     },
     {
-        "file": "popmod.dlc", 
-        "title": "popstar chilli animation",
+        "file": "custom1.dlc", 
+        "title": "firstmod",
         "buttons": [
             { "title": "dunno yet ", "action": [75,0,0,0] }
         ]
