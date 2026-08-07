@@ -311,5 +311,19 @@
         "buttons": [
             { "title": "test ", "action": [15,0,0,10] }
         ]
+    },
+    {
+        "file": "popman.dlc", 
+        "title": "firstmod",
+        "buttons": [
+            { "title": "test ", "action": [75,0,4,4] }
+        ]
+    },
+    {
+        "file": "generic.dlc", 
+        "title": "genericpersonality",
+        "buttons": [
+            { "title": "test ", "action": [75,0,0,0] }
+        ]
     }
 ]
