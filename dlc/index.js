@@ -299,7 +299,7 @@
         ]
     },
     {
-        "file": "PERSON04.dlc", 
+        "file": "custom.dlc", 
         "title": "YARR personality test",
         "buttons": [
             { "title": "testing only ", "action": [75,0,0,0] }
