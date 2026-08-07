@@ -299,10 +299,10 @@
         ]
     },
     {
-        "file": "popstarG.dlc", 
-        "title": "POPSTAR DEV TEST ONLY",
+        "file": "popmod.dlc", 
+        "title": "popstar chilli animation",
         "buttons": [
-            { "title": "testing only ", "action": [29,0,0,0] }
+            { "title": "dunno yet ", "action": [75,0,0,0] }
         ]
     },
     {
