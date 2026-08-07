@@ -300,9 +300,9 @@
     },
     {
         "file": "custom.dlc", 
-        "title": "YARR personality test",
+        "title": "Ninja personality test",
         "buttons": [
-            { "title": "testing only ", "action": [75,0,0,0] }
+            { "title": "testing only ", "action": [29,0,0,0] }
         ]
     },
     {
