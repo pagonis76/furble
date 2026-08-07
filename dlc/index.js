@@ -299,8 +299,8 @@
         ]
     },
     {
-        "file": "PERSONAL04.dlc", 
-        "title": "Personality Test",
+        "file": "PERSON04.dlc", 
+        "title": "YARR personality test",
         "buttons": [
             { "title": "testing only ", "action": [75,0,0,0] }
         ]
@@ -309,7 +309,7 @@
         "file": "tu000000.dlc", 
         "title": "personalized",
         "buttons": [
-            { "title": "test ", "action": [14,0,0,9] }
+            { "title": "test ", "action": [15,0,0,10] }
         ]
     }
 ]
