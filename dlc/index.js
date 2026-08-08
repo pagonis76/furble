@@ -299,7 +299,7 @@
         ]
     },
     {
-        "file": "popman.dlc", 
+        "file": "mod.dlc", 
         "title": "firstmod",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
