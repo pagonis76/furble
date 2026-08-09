@@ -338,10 +338,11 @@
         ]
     },
     {
-        "file": "pop3.dlc", 
+        "file": "pop4.dlc", 
         "title": "Popstar eyes",
         "buttons": [
-            { "title": "test ", "action": [75,0,4,4] }
+            { "title": "test ", "action": [75,0,4,4] },
+            { "title": "sound test ", "action": [75,0,0,0] }
         ]
     },
     {
