@@ -339,7 +339,7 @@
     },
     {
         "file": "MODPOP.dlc", 
-        "title": "popstar mod test",
+        "title": "Popstar eyes",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
         ]
