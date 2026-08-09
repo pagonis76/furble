@@ -338,8 +338,8 @@
         ]
     },
     {
-        "file": "popmod1.dlc", 
-        "title": "firstmod",
+        "file": "MODPOP.dlc", 
+        "title": "popstar mod test",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
         ]
