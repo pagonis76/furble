@@ -338,7 +338,7 @@
         ]
     },
     {
-        "file": "pop2.dlc", 
+        "file": "pop3.dlc", 
         "title": "Popstar eyes",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
