@@ -345,6 +345,20 @@
         ]
     },
     {
+        "file": "MODDJ.dlc", 
+        "title": "DJ eyes",
+        "buttons": [
+            { "title": "test ", "action": [75,0,4,4] }
+        ]
+    },
+    {
+        "file": "NINJA.dlc", 
+        "title": "Ninja eyes",
+        "buttons": [
+            { "title": "test ", "action": [75,0,4,4] }
+        ]
+    },
+    {
         "file": "generic.dlc", 
         "title": "genericpersonality",
         "buttons": [
