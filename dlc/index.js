@@ -338,17 +338,10 @@
         ]
     },
     {
-        "file": "mod.dlc", 
+        "file": "popmod1.dlc", 
         "title": "firstmod",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
-        ]
-    },
-    {
-        "file": "tu000000.dlc", 
-        "title": "personalized",
-        "buttons": [
-            { "title": "test ", "action": [15,0,0,10] }
         ]
     },
     {
