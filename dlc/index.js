@@ -360,6 +360,13 @@
         ]
     },
     {
+        "file": "popv6.dlc", 
+        "title": "popstar alt (sound and eye test 2)",
+        "buttons": [
+            { "title": "test ", "action": [75,0,0,0] }
+        ]
+    },
+    {
         "file": "generic.dlc", 
         "title": "genericpersonality",
         "buttons": [
