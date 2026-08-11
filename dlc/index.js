@@ -360,10 +360,11 @@
         ]
     },
     {
-        "file": "popv6.dlc", 
-        "title": "popstar alt (sound and eye test 2)",
+        "file": "starhak.dlc", 
+        "title": "popstar alt (HACKED dlc eye mod)",
         "buttons": [
-            { "title": "test ", "action": [75,0,0,0] }
+            { "title": "test ", "action": [75,0,4,3] }
+            { "title": "test2 ", "action": [75,0,4,4] }
         ]
     },
     {
