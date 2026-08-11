@@ -376,8 +376,8 @@
         ]
     },
     {
-        "file": "prinhak.dlc", 
-        "title": "princess dlc (HACKED dlc eye mod)",
+        "file": "prinhak2.dlc", 
+        "title": "princess (HACKED dlc eye mod)",
         "buttons": [
             { "title": "test ", "action": [75,0,4,3] },
             { "title": "test2 ", "action": [75,0,4,4] }
