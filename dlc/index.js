@@ -369,7 +369,7 @@
     },
     {
         "file": "DJhak.dlc", 
-        "title": "popstar alt (HACKED dlc eye mod)",
+        "title": "DJ alt (HACKED dlc eye mod)",
         "buttons": [
             { "title": "test ", "action": [75,0,4,3] },
             { "title": "test2 ", "action": [75,0,4,4] }
