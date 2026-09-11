@@ -384,6 +384,13 @@
         ]
     },
     {
+        "file": "fortest.dlc", 
+        "title": "FORDEVTESTINGONLY",
+        "buttons": [
+            { "title": "TEST", "action": [1,0,0,0] }
+        ]
+    },
+    {
         "file": "generic.dlc", 
         "title": "genericpersonality",
         "buttons": [
