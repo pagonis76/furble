@@ -396,5 +396,12 @@
         "buttons": [
             { "title": "test ", "action": [75,0,0,0] }
         ]
+    },
+    {
+        "file": "corrupt.dlc", 
+        "title": "corrupted dlc",
+        "buttons": [
+            { "title": "test ", "action": [75,0,0,0] }
+        ]
     }
 ]
