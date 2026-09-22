@@ -384,10 +384,10 @@
         ]
     },
     {
-        "file": "fortest.dlc", 
-        "title": "FORDEVTESTINGONLY",
+        "file": "tu021990.dlc", 
+        "title": "May Bay the furby clone testing",
         "buttons": [
-            { "title": "TEST", "action": [1,0,0,0] }
+            { "title": "TEST", "action": [75,0,0,0] }
         ]
     },
     {
