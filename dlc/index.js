@@ -337,6 +337,13 @@
             { "title": "kill your english furby! ", "action": [74,0,0,1] }
         ]
     },
+       {
+        "file": "tu003000.dlc", 
+        "title": "Moana dlc (found media)",
+        "buttons": [
+            { "title": "test ", "action": [75,0,0,0] }
+        ]
+    },
     {
         "file": "popv5.dlc", 
         "title": "Popstar eyes",
