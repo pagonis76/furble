@@ -353,6 +353,13 @@
         ]
     },
     {
+        "file": "Boombox.dlc", 
+        "title": "Boombox animation from popstar",
+        "buttons": [
+            { "title": "TEST WITH AUDIO", "action": [75,0,4,4] },
+        ]
+    },
+    {
         "file": "MODDJ.dlc", 
         "title": "DJ eyes",
         "buttons": [
