@@ -353,8 +353,8 @@
         ]
     },
      {
-        "file": "Boomboxf.dlc", 
-        "title": "Boom box furbling eyes with popstar singing",
+        "file": "boom.dlc", 
+        "title": "Boom box furbling",
         "buttons": [
             { "title": "test ", "action": [75,0,4,4] }
         ]
