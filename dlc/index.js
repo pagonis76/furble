@@ -352,6 +352,13 @@
             { "title": "sound test ", "action": [75,0,0,0] }
         ]
     },
+     {
+        "file": "Boomboxf.dlc", 
+        "title": "Boom box furbling eyes with popstar singing",
+        "buttons": [
+            { "title": "test ", "action": [75,0,4,4] }
+        ]
+    },
     {
         "file": "MODDJ.dlc", 
         "title": "DJ eyes",
