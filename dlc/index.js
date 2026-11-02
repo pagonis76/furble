@@ -353,10 +353,10 @@
         ]
     },
      {
-        "file": "boom.dlc", 
-        "title": "Boom box furbling",
+        "file": "LOGAN2.dlc", 
+        "title": "Testing",
         "buttons": [
-            { "title": "test ", "action": [75,0,4,4] }
+            { "title": "test", "action": [75,0,4,4] }
         ]
     },
     {
