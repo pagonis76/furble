@@ -353,10 +353,10 @@
         ]
     },
      {
-        "file": "LOGSTAR.dlc", 
-        "title": "testing an animation and sound",
+        "file": "test1.dlc", 
+        "title": "testing an animation",
         "buttons": [
-            { "title": "test", "action": [75,0,4,4] }
+            { "title": "test", "action": [75,0,0,3] }
         ]
     },
     {
