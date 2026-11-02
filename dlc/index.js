@@ -353,8 +353,8 @@
         ]
     },
      {
-        "file": "LOGAN2.dlc", 
-        "title": "Testing",
+        "file": "LOGSTAR.dlc", 
+        "title": "testing an animation and sound",
         "buttons": [
             { "title": "test", "action": [75,0,4,4] }
         ]
