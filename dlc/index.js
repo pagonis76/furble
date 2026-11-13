@@ -315,6 +315,19 @@
             { "title": "kidzbop8", "action": [75,0,4,7] }
         ]
     },
+    {
+        "file": "PERS.dlc", 
+        "title": "personality bluetooth changer (triggers the real hidden personalities)",
+        "buttons": [
+            { "title": "Generic (base)", "action": [73,0,0,0] },
+            { "title": "DJ", "action": [73,0,0,1] },
+            { "title": "Princess", "action": [73,0,0,2] },
+            { "title": "Ninja", "action": [73,0,0,3] },
+            { "title": "Pirate", "action": [73,0,0,4] },
+            { "title": "Cat", "action": [73,0,0,5] },
+            { "title": "Popstar", "action": [73,0,0,6] }
+        ]
+    },
     { 
         "file": "context.dlc", 
         "title": "Context Logo",
