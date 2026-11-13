@@ -328,6 +328,13 @@
             { "title": "Popstar", "action": [73,0,0,6] }
         ]
     },
+    {
+        "file": "tu021990.dlc", 
+        "title": "May Bay the furby clone testing (furby-reconnect theater dlc)",
+        "buttons": [
+            { "title": "video alert", "action": [75,0,0,0] }
+        ]
+    },
     { 
         "file": "context.dlc", 
         "title": "Context Logo",
@@ -408,13 +415,6 @@
         "buttons": [
             { "title": "test ", "action": [75,0,4,3] },
             { "title": "test2 ", "action": [75,0,4,4] }
-        ]
-    },
-    {
-        "file": "tu021990.dlc", 
-        "title": "May Bay the furby clone testing",
-        "buttons": [
-            { "title": "TEST", "action": [75,0,0,0] }
         ]
     },
     {
