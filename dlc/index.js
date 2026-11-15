@@ -373,10 +373,10 @@
         ]
     },
      {
-        "file": "test1.dlc", 
-        "title": "testing an animation",
+        "file": "TESTING.dlc", 
+        "title": "DEV-TESTING-ONLY-FOR-KEE-BOO",
         "buttons": [
-            { "title": "test", "action": [75,0,0,3] }
+            { "title": "test", "action": [73,0,0,6] }
         ]
     },
     {
